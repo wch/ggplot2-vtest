@@ -2872,3 +2872,156 @@
 "5b95357ae1c44c1e69d9c0124a65ba26","violin","continuous x axis, single group (center should be at 1.0)","pdf",4,4,NA,"ok","533bd494c45cac1b125dd0448d9947c0",11
 "5b95357ae1c44c1e69d9c0124a65ba26","violin","grouping on x and fill","pdf",4,4,NA,"ok","1408c3601ed76350895a08427e7ad86b",12
 "5b95357ae1c44c1e69d9c0124a65ba26","violin","grouping on x and fill, dodge width = 0.5","pdf",4,4,NA,"ok","6e7c303092057a7ea6f97217798cf6b6",13
+"60f51b76598bbf9f567216967ee6ec70","Alpha","Alpha set in colour","pdf",4,4,NA,"ok","712aced98fac93b913d62097dfb7670e",1
+"60f51b76598bbf9f567216967ee6ec70","Alpha","Alpha set in alpha","pdf",4,4,NA,"ok","15cceb739b7d27f948d50b1bf0808efe",2
+"60f51b76598bbf9f567216967ee6ec70","aspect-ratio","height is 3 times width","pdf",4,4,NA,"ok","f68b02d8964ee692e1d39219aa646858",1
+"60f51b76598bbf9f567216967ee6ec70","aspect-ratio","height is 3 times width, 2 wrap facets","pdf",4,4,NA,"ok","8f1d5cafd7f95fc8b61bf09baade5dfb",2
+"60f51b76598bbf9f567216967ee6ec70","aspect-ratio","height is 3 times width, 2 column facets","pdf",4,4,NA,"ok","848c417fec39115ee249e43ff6830b53",3
+"60f51b76598bbf9f567216967ee6ec70","aspect-ratio","height is 3 times width, 2 row facets","pdf",4,4,NA,"ok","ac74c859d8068f35a0e7bd2ecbc660ed",4
+"60f51b76598bbf9f567216967ee6ec70","aspect-ratio","height is 3 times width, 2x2 facets","pdf",4,4,NA,"ok","4412bc2b741a7a6a98a96f64fc1030c9",5
+"60f51b76598bbf9f567216967ee6ec70","aspect-ratio","width is 3 times height","pdf",4,4,NA,"ok","ce9edebab9d65660f60ad199d4e876a3",6
+"60f51b76598bbf9f567216967ee6ec70","aspect-ratio","width is 3 times height, 2 wrap facets","pdf",4,4,NA,"ok","373fffdbba636a595a56de1fc57d6c74",7
+"60f51b76598bbf9f567216967ee6ec70","aspect-ratio","width is 3 times height, 2 column facets","pdf",4,4,NA,"ok","d3726ef9463df00fcf60fa08069f6e7e",8
+"60f51b76598bbf9f567216967ee6ec70","aspect-ratio","width is 3 times height, 2 row facets","pdf",4,4,NA,"ok","b6156fd5185669318f4abe096330ae9d",9
+"60f51b76598bbf9f567216967ee6ec70","aspect-ratio","width is 3 times height, 2x2 facets","pdf",4,4,NA,"ok","016531309ef925a908f3354f55403daa",10
+"60f51b76598bbf9f567216967ee6ec70","coord-cartesian-with-limits","expand range","pdf",4,4,NA,"ok","08e21aedad79707ad4010b684fd4b22c",1
+"60f51b76598bbf9f567216967ee6ec70","coord-cartesian-with-limits","contract range","pdf",4,4,NA,"ok","cff1010b69b48079aecdf47a97ca8f08",2
+"60f51b76598bbf9f567216967ee6ec70","coord-polar","Concentric circles at theta = 1:80","pdf",4,4,NA,"ok","2538264763703cf8dd0916829ccc5de8",1
+"60f51b76598bbf9f567216967ee6ec70","coord-polar","Concentric circles at theta = 1:80 - 80","pdf",4,4,NA,"ok","247c2e3249fe98eefdea296126ee9769",2
+"60f51b76598bbf9f567216967ee6ec70","coord-polar","Concentric circles at theta = 1:80 - 40","pdf",4,4,NA,"ok","07494e0ad774cbc115053c42f0b60fb4",3
+"60f51b76598bbf9f567216967ee6ec70","coord-polar","Concentric circles at theta = 1:80 + 100","pdf",4,4,NA,"ok","2e22f5ddae3ac687fc87e5ab9a5d5264",4
+"60f51b76598bbf9f567216967ee6ec70","coord-polar","Concentric circles at theta = 1:80 * 100","pdf",4,4,NA,"ok","276c4b87f9378a9129ee61a9910e7c26",5
+"60f51b76598bbf9f567216967ee6ec70","coord-polar","Rays, circular arcs, and spiral arcs","pdf",4,4,NA,"ok","dad9e79ce8e185ec8e65883cdfe861a2",6
+"60f51b76598bbf9f567216967ee6ec70","coord-polar","rose plot with has equal spacing","pdf",4,4,NA,"ok","34900e012203354d0e74e863206b6211",7
+"60f51b76598bbf9f567216967ee6ec70","coord-polar","continuous theta has merged low/high values","pdf",4,4,NA,"ok","ec2e9a65c5fd31c0c32a18b8ea222df0",8
+"60f51b76598bbf9f567216967ee6ec70","coord-polar","continuous theta with xlim(0, 6) and ylim(0, 16)","pdf",4,4,NA,"ok","d69937cdeb529ebe9193b8d581da6bbf",9
+"60f51b76598bbf9f567216967ee6ec70","coord-polar","racetrack plot with expand=F is closed and doesn't have center hole","pdf",4,4,NA,"ok","66e7c1f91cbdfc5abb2dec6e20cdfc20",10
+"60f51b76598bbf9f567216967ee6ec70","coord-polar","racetrack plot with expand=T is closed and has center hole","pdf",4,4,NA,"ok","e08088c21b5e50e5476d16bfc85f9c47",11
+"60f51b76598bbf9f567216967ee6ec70","dotplot","basic dotplot with dot-density binning, binwidth=.4","pdf",4,4,NA,"ok","ec5941ba8b34c82677ee14b5099e33bb",1
+"60f51b76598bbf9f567216967ee6ec70","dotplot","histodot binning (equal bin spacing)","pdf",4,4,NA,"ok","11ead0e1fbb9f8ed59b6178980b476de",2
+"60f51b76598bbf9f567216967ee6ec70","dotplot","dots stacked closer: stackratio=.5, fill=white","pdf",4,4,NA,"ok","38f0a4394fabd2480b7d421d80fccb9c",3
+"60f51b76598bbf9f567216967ee6ec70","dotplot","larger dots: dotsize=1.5, fill=white","pdf",4,4,NA,"ok","ef2d00d4b0af8b9d8a43af48e6f8b66f",4
+"60f51b76598bbf9f567216967ee6ec70","dotplot","stack up","pdf",4,4,NA,"ok","ec5941ba8b34c82677ee14b5099e33bb",5
+"60f51b76598bbf9f567216967ee6ec70","dotplot","stack down","pdf",4,4,NA,"ok","e4d970ebedc07a35f427a8c85a9cebd2",6
+"60f51b76598bbf9f567216967ee6ec70","dotplot","stack center","pdf",4,4,NA,"ok","51935217fe2ce4d51cc3c19c1635cb20",7
+"60f51b76598bbf9f567216967ee6ec70","dotplot","stack centerwhole","pdf",4,4,NA,"ok","bf3a4842e4790920ffb61bc3a3f4bd19",8
+"60f51b76598bbf9f567216967ee6ec70","dotplot","stack up with coord_flip","pdf",4,4,NA,"ok","aae8ad509eba5bfa44afdc7310368e9d",9
+"60f51b76598bbf9f567216967ee6ec70","dotplot","stack down with coord_flip","pdf",4,4,NA,"ok","d0472ff6f25cb6b3f3f96a6f70d1b07d",10
+"60f51b76598bbf9f567216967ee6ec70","dotplot","stack center with coord_flip","pdf",4,4,NA,"ok","d85f1fd7947c4e963d2c21e485322a8a",11
+"60f51b76598bbf9f567216967ee6ec70","dotplot","stack centerwhole with coord_flip","pdf",4,4,NA,"ok","2b99a9aedf92693cfdf168927e4fa726",12
+"60f51b76598bbf9f567216967ee6ec70","dotplot","multiple groups, bins not aligned","pdf",4,4,NA,"ok","2db6a9a4ccc31e47f78dfb05418b5413",13
+"60f51b76598bbf9f567216967ee6ec70","dotplot","multiple groups, bins aligned","pdf",4,4,NA,"ok","15e3f7557b31cc3dbbb170082b78a97c",14
+"60f51b76598bbf9f567216967ee6ec70","dotplot","bin along y, stack center","pdf",4,4,NA,"ok","a590f8c6b5b1e618ff9f1e0700996559",15
+"60f51b76598bbf9f567216967ee6ec70","dotplot","bin along y, stack centerwhole","pdf",4,4,NA,"ok","7d6d2d818c36c0df5c2aed8d405eb194",16
+"60f51b76598bbf9f567216967ee6ec70","dotplot","bin along y, stack centerwhole, histodot","pdf",4,4,NA,"ok","999a4582ad757306d537ff8b40510de0",17
+"60f51b76598bbf9f567216967ee6ec70","dotplot","bin y, three x groups, stack centerwhole","pdf",4,4,NA,"ok","65bc2f8328f3bdd59f4cd3ebbcfcc73a",18
+"60f51b76598bbf9f567216967ee6ec70","dotplot","bin y, three x groups, bins aligned across groups","pdf",4,4,NA,"ok","95ad1bcfb64fffc904119049e3ccb284",19
+"60f51b76598bbf9f567216967ee6ec70","dotplot","bin y, three x groups, bins aligned, coord_flip","pdf",4,4,NA,"ok","570b86210098e394cacffe8af1ce59ba",20
+"60f51b76598bbf9f567216967ee6ec70","dotplot","bin y, dodged","pdf",4,4,NA,"ok","1886f530d33f87f24c44f6ba0a0ce96e",21
+"60f51b76598bbf9f567216967ee6ec70","dotplot","bin y, dodged, coord_flip","pdf",4,4,NA,"ok","0a895ec6e0221a0baca613e6910a5ae8",22
+"60f51b76598bbf9f567216967ee6ec70","dotplot","bin y, three x groups, fill and dodge","pdf",4,4,NA,"ok","bebd6eee47af311d0a2896e314058be8",23
+"60f51b76598bbf9f567216967ee6ec70","dotplot","bin y, continous x-axis, grouping by x","pdf",4,4,NA,"ok","acf2b09d8405ef3a75af75d63a6f3516",24
+"60f51b76598bbf9f567216967ee6ec70","dotplot","bin y, continous x-axis, single x group","pdf",4,4,NA,"ok","ec7f47746ff39b42b1ffb79a215b6120",25
+"60f51b76598bbf9f567216967ee6ec70","dotplot","stackgroups with 3 groups, dot-density with aligned bins","pdf",4,4,NA,"ok","d26b3a1d1b27e71a044a176fec876849",26
+"60f51b76598bbf9f567216967ee6ec70","dotplot","stackgroups with 3 groups, histodot","pdf",4,4,NA,"ok","10da93b45e33a5d58c649a590d30914a",27
+"60f51b76598bbf9f567216967ee6ec70","dotplot","stackgroups with 3 groups, bin y, histodot","pdf",4,4,NA,"ok","677fd53dc8e03c2f91f6a2825d167db4",28
+"60f51b76598bbf9f567216967ee6ec70","dotplot","bin y, dodging, stackgroups with 3 groups, histodot (currently broken)","pdf",4,4,NA,"ok","8e20b1fc8a15cd341642a152a106c91f",29
+"60f51b76598bbf9f567216967ee6ec70","dotplot","facets, 3 groups, histodot, stackgroups","pdf",4,4,NA,"ok","6baf348d6cd7e9b396ac319e888974b5",30
+"60f51b76598bbf9f567216967ee6ec70","geom-path","lines","pdf",4,4,NA,"ok","e115826c2ec3f35f9e474e3397519f1c",1
+"60f51b76598bbf9f567216967ee6ec70","geom-path","lines with changed data order, should have same appearance","pdf",4,4,NA,"ok","e115826c2ec3f35f9e474e3397519f1c",2
+"60f51b76598bbf9f567216967ee6ec70","geom-path","lines, colour","pdf",4,4,NA,"ok","841527c51ead837101fe27d2ad1492e8",3
+"60f51b76598bbf9f567216967ee6ec70","geom-path","lines, colour, with changed data order, should have same appearance","pdf",4,4,NA,"ok","841527c51ead837101fe27d2ad1492e8",4
+"60f51b76598bbf9f567216967ee6ec70","geom-raster","3 x 2","pdf",4,4,NA,"ok","5a31dc8f4bd200034496337e063fdb97",1
+"60f51b76598bbf9f567216967ee6ec70","geom-raster","3 x 2, set limits","pdf",4,4,NA,"ok","cf0f8f49d06c44bdf9489f31c44f2235",2
+"60f51b76598bbf9f567216967ee6ec70","geom-raster","3 x 2, just = (0, 0)","pdf",4,4,NA,"ok","0391cc3c4c130ae2a7476ab0d46b5b9a",3
+"60f51b76598bbf9f567216967ee6ec70","geom-raster","1 x 3","pdf",4,4,NA,"ok","dcbf1cf68ef7ea09f6343bddba7e5758",4
+"60f51b76598bbf9f567216967ee6ec70","geom-raster","1 x 3, set limits","pdf",4,4,NA,"ok","7add2383fd8bab77ed7323a6a5a50509",5
+"60f51b76598bbf9f567216967ee6ec70","geom-raster","1 x 3, just = (0, 0)","pdf",4,4,NA,"ok","d792af75c34d06c9276e9332fa2aa742",6
+"60f51b76598bbf9f567216967ee6ec70","geom-raster","3 x 1","pdf",4,4,NA,"ok","258778715c3d8c320511bce4b42e856e",7
+"60f51b76598bbf9f567216967ee6ec70","geom-raster","3 x 1, set limits","pdf",4,4,NA,"ok","82c01ea191e80d717294fb9f0dbfbbf0",8
+"60f51b76598bbf9f567216967ee6ec70","geom-raster","3 x 1, just = (0, 0)","pdf",4,4,NA,"ok","258778715c3d8c320511bce4b42e856e",9
+"60f51b76598bbf9f567216967ee6ec70","geom-raster","irregular categorical","pdf",4,4,NA,"ok","3967dc9e53c57e6b03926f60d935c2f7",10
+"60f51b76598bbf9f567216967ee6ec70","guide-axis","align facet labels, facets horizontal","pdf",4,4,NA,"ok","59e222c02503dce85355c69826bcf3b3",1
+"60f51b76598bbf9f567216967ee6ec70","guide-axis","align facet labels, facets vertical","pdf",4,4,NA,"ok","d70c57f579adc7d34948b6542cfd04cd",2
+"60f51b76598bbf9f567216967ee6ec70","guide-position","legend on left","pdf",4,4,NA,"ok","77be57b0d7e20bbb2a5eddaf749ce0ae",1
+"60f51b76598bbf9f567216967ee6ec70","guide-position","legend on bottom","pdf",4,4,NA,"ok","e9806d71381a4523e285c65d76bb39e3",2
+"60f51b76598bbf9f567216967ee6ec70","guide-position","legend on right","pdf",4,4,NA,"ok","cbad1c94004e7f014defe23fa786a23b",3
+"60f51b76598bbf9f567216967ee6ec70","guide-position","legend on top","pdf",4,4,NA,"ok","328a626a24715cdd6c627d02fc8ca158",4
+"60f51b76598bbf9f567216967ee6ec70","guide-position","facet_grid, legend on left","pdf",4,4,NA,"ok","dac0f8351d485af0aea6f084f2064b32",5
+"60f51b76598bbf9f567216967ee6ec70","guide-position","facet_grid, legend on bottom","pdf",4,4,NA,"ok","a4eeaff52f981f5fa26ffbf2688364db",6
+"60f51b76598bbf9f567216967ee6ec70","guide-position","facet_grid, legend on right","pdf",4,4,NA,"ok","3d415a41bd725f730456dff372d6f724",7
+"60f51b76598bbf9f567216967ee6ec70","guide-position","facet_grid, legend on top","pdf",4,4,NA,"ok","28d007060b0e625ce0b0ee94137d1342",8
+"60f51b76598bbf9f567216967ee6ec70","guide-position","facet_wrap, legend on left","pdf",4,4,NA,"ok","3519ee0efa840e885056e01b9e068c6f",9
+"60f51b76598bbf9f567216967ee6ec70","guide-position","facet_wrap, legend on bottom","pdf",4,4,NA,"ok","237341c5546a354716bed931623c2907",10
+"60f51b76598bbf9f567216967ee6ec70","guide-position","facet_wrap, legend on right","pdf",4,4,NA,"ok","7103b1f57f45ef53d2658792104621e9",11
+"60f51b76598bbf9f567216967ee6ec70","guide-position","facet_wrap, legend on top","pdf",4,4,NA,"ok","f9748aa739139989348fb7586ac29566",12
+"60f51b76598bbf9f567216967ee6ec70","guide-position","padding in legend box","pdf",4,4,NA,"ok","180bf44ef83918c45ce7785df15433e4",13
+"60f51b76598bbf9f567216967ee6ec70","guide-position","legend inside plot, centered","pdf",4,4,NA,"ok","5a7c5ca5d2e4d24e89cf74f2929a6e4e",14
+"60f51b76598bbf9f567216967ee6ec70","guide-position","legend inside plot, bottom left","pdf",4,4,NA,"ok","2216e054ef0a20e0035c3300ea2550f6",15
+"60f51b76598bbf9f567216967ee6ec70","guide-position","legend inside plot, top right","pdf",4,4,NA,"ok","031e0b7417e4e670856ba52c47bc5280",16
+"60f51b76598bbf9f567216967ee6ec70","guide-position","legend inside plot, bottom left of legend at center","pdf",4,4,NA,"ok","654206fa00b360b21638690101700ed9",17
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_abline: intercept=2, slope=0","pdf",4,4,NA,"ok","65883fbc2590ac2f57d99346508f3d4d",1
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_abline: intercept=0, slope=1 Should have same values as bars","pdf",4,4,NA,"ok","32a4fbf99e20ae1bbbbb12a14bc301ad",2
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_abline, coord_flip: intercept=2, slope=0","pdf",4,4,NA,"ok","58aeb8edefb7dfe4581bf3932813e597",3
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_abline, coord_flip: intercept=0, slope=1, should have same values as bars","pdf",4,4,NA,"ok","e4b353310bae607bf58133c1dc7d7b8e",4
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_hline: intercept=2","pdf",4,4,NA,"ok","65883fbc2590ac2f57d99346508f3d4d",5
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_hline, coord_flip: intercept=2","pdf",4,4,NA,"ok","58aeb8edefb7dfe4581bf3932813e597",6
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_hline, coord_polar: intercept=2, should have a circle at r=2","pdf",4,4,NA,"ok","3aa95552eb878732c65700393f184896",7
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_vline: intercept=2","pdf",4,4,NA,"ok","0babe808e91995bb026320f4ae6aa146",8
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_vline, coord_flip: intercept=2","pdf",4,4,NA,"ok","9c1d67e024e67f04dedfa079d0f7b276",9
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_vline, coord_polar: intercept=2, should have a ray at 2","pdf",4,4,NA,"ok","b3f2e9ca2a7c1e823f3ed0062dd9685d",10
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_hline: intercept=-45, projection=mercator","pdf",4,4,NA,"ok","18942317ca465b8eaa405b80d173b6fb",11
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_vline: intercept=172, projection=mercator","pdf",4,4,NA,"ok","a9b274d86645f6ce2a493ab4d24243a4",12
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_abline: intercept=130, slope=-1 projection=mercator","pdf",4,4,NA,"ok","f5477f18d9f6ba9e901bbfc8217d5596",13
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_hline: intercept=-45, projection=cylindrical","pdf",4,4,NA,"ok","becf4c6573997559a7c339937cbf28c3",14
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_vline: intercept=172, projection=cylindrical","pdf",4,4,NA,"ok","7d3f32b3fe04a517c332e5a5791e889c",15
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_abline: intercept=130, slope=-1, projection=cylindrical","pdf",4,4,NA,"ok","a895f23fa75a6dec7a76981e22f05e99",16
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_hline: intercept=-45, projection=azequalarea","pdf",4,4,NA,"ok","b29e8363c6ef723ffa3ef75d081fe129",17
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_vline: intercept=172, projection=azequalara","pdf",4,4,NA,"ok","2b284c0a1a64b25730652a247c4e1a9d",18
+"60f51b76598bbf9f567216967ee6ec70","lines","geom_abline: intercept=130, slope=-1, projection=azequalarea","pdf",4,4,NA,"ok","bc2afd2a760e8f670304fc0e0062d43d",19
+"60f51b76598bbf9f567216967ee6ec70","minor-breaks","manual minor breaks","pdf",4,4,NA,"ok","9baad8a72537318c6ad037997d807ead",1
+"60f51b76598bbf9f567216967ee6ec70","minor-breaks","manual minor breaks with coord_polar","pdf",4,4,NA,"ok","83bd1305a5d84ba3fadcc6a4ba2e4fad",2
+"60f51b76598bbf9f567216967ee6ec70","minor-breaks","major breaks: months, minor breaks: weeks","pdf",4,4,NA,"ok","2e4227b8633074236006213eb243f4e1",3
+"60f51b76598bbf9f567216967ee6ec70","minor-breaks","major breaks: months, minor breaks: weeks, with coord_polar","pdf",4,4,NA,"ok","0743849c0c02ffecb62d69ab7f0d5df0",4
+"60f51b76598bbf9f567216967ee6ec70","minor-breaks","default breaks","pdf",4,4,NA,"ok","d4b81727e4bc55f3bf230947600d1882",5
+"60f51b76598bbf9f567216967ee6ec70","minor-breaks","scale_x_continuous(trans = log2_trans()) + scale_y_log10","pdf",4,4,NA,"ok","8e1d91e7b6bd2b3e77a9fe1f90ebe98f",6
+"60f51b76598bbf9f567216967ee6ec70","minor-breaks","scale_x_continuous(trans = exp_trans(2)) + scale_y_continuous(trans = exp_trans(2))","pdf",4,4,NA,"ok","098e86281f4be8f35013e87f57741282",7
+"60f51b76598bbf9f567216967ee6ec70","scale-breaks","no x breaks","pdf",4,4,NA,"ok","8bf316002621624c2040881419a4b73e",1
+"60f51b76598bbf9f567216967ee6ec70","scale-breaks","no y breaks","pdf",4,4,NA,"ok","24a8eb0ff88b94017ff51da9c046c53a",2
+"60f51b76598bbf9f567216967ee6ec70","scale-breaks","no alpha breaks (no legend)","pdf",4,4,NA,"ok","a32b0cc0842aafc5d2a4b771cc268632",3
+"60f51b76598bbf9f567216967ee6ec70","scale-breaks","no size breaks (no legend)","pdf",4,4,NA,"ok","b14ecf9ac2098241d541801595cf09ed",4
+"60f51b76598bbf9f567216967ee6ec70","scale-breaks","no fill breaks (no legend)","pdf",4,4,NA,"ok","2e06da4d10d61736883824dba0ab6f60",5
+"60f51b76598bbf9f567216967ee6ec70","scale-breaks","no colour breaks (no legend)","pdf",4,4,NA,"ok","15d8115f7ce0b0f20159f138879ff34b",6
+"60f51b76598bbf9f567216967ee6ec70","scale-date","dates along x, default breaks","pdf",4,4,NA,"ok","287418e2de9faa8c84b4a1ae64e2eb6f",1
+"60f51b76598bbf9f567216967ee6ec70","scale-date","scale_x_date(breaks = date_breaks(""2 weeks""))","pdf",4,4,NA,"ok","b745db2bdaa74ff5f69c198c08390a77",2
+"60f51b76598bbf9f567216967ee6ec70","scale-date","scale_x_date(breaks = date_breaks(""3 weeks""))","pdf",4,4,NA,"warn","f84399218c209c803f30f02ed7352d52",3
+"60f51b76598bbf9f567216967ee6ec70","scale-date","scale_x_date(labels = date_format(""%m/%d""))","pdf",4,4,NA,"ok","9a5181854fc6e68193195d0d80781dc1",4
+"60f51b76598bbf9f567216967ee6ec70","scale-date","scale_x_date(labels = date_format(""%W""), ""week"")","pdf",4,4,NA,"ok","6507c9b084609049a7bafcca221dd758",5
+"60f51b76598bbf9f567216967ee6ec70","scale-date","dates along y, default breaks","pdf",4,4,NA,"ok","728cfec00be8ea2ae3e6ec7e022b17d7",6
+"60f51b76598bbf9f567216967ee6ec70","scale-date","scale_y_date(breaks = date_breaks(""2 weeks""))","pdf",4,4,NA,"ok","49100aba2b6e0f5f822215449d657504",7
+"60f51b76598bbf9f567216967ee6ec70","scale-date","scale_y_date(breaks = date_breaks(""3 weeks""))","pdf",4,4,NA,"warn","f6e46caa580d583bfb219249bc35645c",8
+"60f51b76598bbf9f567216967ee6ec70","themes","theme_bw() plus blue text","pdf",4,4,NA,"ok","099b254f6fac28e730764e0735e637df",1
+"60f51b76598bbf9f567216967ee6ec70","themes","add saved theme object with theme_bw() plus blue text","pdf",4,4,NA,"ok","099b254f6fac28e730764e0735e637df",2
+"60f51b76598bbf9f567216967ee6ec70","themes","blue text plus theme_bw() - result is black text","pdf",4,4,NA,"ok","f6b25da8de99af3d5af6cd73973ca87d",3
+"60f51b76598bbf9f567216967ee6ec70","themes","add saved theme object with blue text plus theme_bw()) - result is black text","pdf",4,4,NA,"ok","f6b25da8de99af3d5af6cd73973ca87d",4
+"60f51b76598bbf9f567216967ee6ec70","themes","add blue and italic in single element object","pdf",4,4,NA,"ok","5d91dd64e1c7146693117931c1f5b022",5
+"60f51b76598bbf9f567216967ee6ec70","themes","add blue and italic in separate element objects","pdf",4,4,NA,"ok","5d91dd64e1c7146693117931c1f5b022",6
+"60f51b76598bbf9f567216967ee6ec70","themes","add blue and italic in one theme object with two 'text' elements - result is blue only","pdf",4,4,NA,"ok","611465a6ac4ea329e2ac4f9791c07faa",7
+"60f51b76598bbf9f567216967ee6ec70","themes","add theme_bw(base_size=24, base_family=""Times"")","pdf",4,4,NA,"ok","9ec1b6b45ccdfe3128eb633abce821b6",8
+"60f51b76598bbf9f567216967ee6ec70","themes","axis title text is blue, compounded relative sizing","pdf",4,4,NA,"ok","f84e03a276ff5fb28697351c9b0ff1de",9
+"60f51b76598bbf9f567216967ee6ec70","themes","theme_bw + larger relative size for axis.title.y","pdf",4,4,NA,"ok","43eb496d4243e945a65f6a70c64a62d6",10
+"60f51b76598bbf9f567216967ee6ec70","themes","theme_bw %+replace% larger relative size for axis.title.y - result is angle=0","pdf",4,4,NA,"ok","7c4105700a9fc4e82f064de52286f93b",11
+"60f51b76598bbf9f567216967ee6ec70","themes","text is element_blank - result is no text","pdf",4,4,NA,"ok","a879b78db6d1f7200a12343683f13450",12
+"60f51b76598bbf9f567216967ee6ec70","violin","basic","pdf",4,4,NA,"ok","9692e3cb79c62b3ac487da744471a684",1
+"60f51b76598bbf9f567216967ee6ec70","violin","scale area to sample size (C is smaller)","pdf",4,4,NA,"ok","2fc03362afa886c91527233757294587",2
+"60f51b76598bbf9f567216967ee6ec70","violin","narrower (width=.5)","pdf",4,4,NA,"ok","bbcd0c530dbcbec48b618277411030ed",3
+"60f51b76598bbf9f567216967ee6ec70","violin","with tails and points","pdf",4,4,NA,"ok","7fe98a6e2b257fd15e4b464c3298f6d6",4
+"60f51b76598bbf9f567216967ee6ec70","violin","with smaller bandwidth and points","pdf",4,4,NA,"ok","fb4866052f57f2f28afa06e2ff818ed6",5
+"60f51b76598bbf9f567216967ee6ec70","violin","dodging","pdf",4,4,NA,"ok","ab2293162d568d5d75bc04c3f85f47bd",6
+"60f51b76598bbf9f567216967ee6ec70","violin","coord_polar","pdf",4,4,NA,"ok","778268c4bbd232fd3676e13bb9190ffd",7
+"60f51b76598bbf9f567216967ee6ec70","violin","coord_flip","pdf",4,4,NA,"ok","fe184aa1377e51f7561859d7a188a741",8
+"60f51b76598bbf9f567216967ee6ec70","violin","dodging and coord_flip","pdf",4,4,NA,"ok","c6bfbbba74cdc90a6ff93dc12aaebae8",9
+"60f51b76598bbf9f567216967ee6ec70","violin","continuous x axis, multiple groups (center should be at 2.0)","pdf",4,4,NA,"ok","a8a7872746a747d8b0d12039036ea612",10
+"60f51b76598bbf9f567216967ee6ec70","violin","continuous x axis, single group (center should be at 1.0)","pdf",4,4,NA,"ok","4d5ffdd2a492c3c5f63d6cd45c340019",11
+"60f51b76598bbf9f567216967ee6ec70","violin","grouping on x and fill","pdf",4,4,NA,"ok","bef98bfde319be05514553f778e35fda",12
+"60f51b76598bbf9f567216967ee6ec70","violin","grouping on x and fill, dodge width = 0.5","pdf",4,4,NA,"ok","c86f5586eabe545662ae9f1a8b22fa60",13
